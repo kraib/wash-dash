@@ -1,5 +1,5 @@
 # Connecting  a React App to an Express backend
-### Setting up express
+## Setting up express
 
 1. Install and setup  express
 
