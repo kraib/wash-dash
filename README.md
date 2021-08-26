@@ -1,4 +1,5 @@
 # Connecting  a React App to an Express backend
+![Alt text](our-stack.png?raw=true "Title")
 ## Setting up express
 
 1. Install and setup  express
